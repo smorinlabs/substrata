@@ -1,0 +1,11 @@
+[package]
+name = "substrata"
+version = "0.1.0"
+edition = "2021"
+description = "Substrata - a foundational library"
+license = "MIT"
+repository = "https://github.com/smorinlabs/substrata"
+homepage = "https://github.com/smorinlabs/substrata"
+readme = "README.md"
+keywords = ["substrata"]
+categories = ["development-tools"]
